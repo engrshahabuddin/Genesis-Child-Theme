@@ -13,7 +13,7 @@
 // Load child theme textdomain.
 load_child_theme_textdomain( 'textdomain' );
 
-add_action( 'genesis_setup', 'scratch_setup' );
+add_action( 'genesis_setup', 'themeName_setup' );
 /**
  * Theme setup.
  *
@@ -22,6 +22,6 @@ add_action( 'genesis_setup', 'scratch_setup' );
  *
  * @since 1.0.0
  */
-function scratch_setup() {
+function themeName_setup() {
 
 }
