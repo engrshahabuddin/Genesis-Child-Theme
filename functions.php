@@ -22,6 +22,9 @@ add_action( 'genesis_setup', 'themeName_setup' );
  *
  * @since 1.0.0
  */
-function themeName_setup() {
-
+function themeName_setup() {  
+  // Define theme constants.
+	define( 'CHILD_THEME_NAME', 'ThemeName' );
+	define( 'CHILD_THEME_URL', 'https://github.com/engrshahabuddin/Genesis-Child-Theme' );
+	define( 'CHILD_THEME_VERSION', '1.0.0' );
 }
