@@ -4,9 +4,9 @@
  * Theme customizations
  *
  * @package      ThemeName
- * @author       CoderTunes
- * @link         http://www.codertunes.com/
- * @copyright    Copyright (c) 2016, CoderTunes
+ * @author       DevsIT Limited
+ * @link         http://www.devsit.com/
+ * @copyright    Copyright (c) 2016, DevsIT Limited
  * @license      GPL-2.0+
  */
 
