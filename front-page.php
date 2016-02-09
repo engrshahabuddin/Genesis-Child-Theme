@@ -10,7 +10,7 @@
  * @license      GPL-2.0+
  */
 
-function scratch_home_page_setup() {
+function themeName_home_page_setup() {
 
 	$home_sidebars = array(
 		'home_welcome' 	   => is_active_sidebar( 'home-welcome' ),
