@@ -2,7 +2,6 @@
 
 /**
  * Front page template
-/**
  *
  * @package      ThemeName
  * @author       DevsIT Limited
